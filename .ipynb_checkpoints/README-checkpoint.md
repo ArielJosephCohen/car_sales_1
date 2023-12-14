@@ -4,7 +4,7 @@
 
 The purpose of the following project was to create a model designed to predict how much someone might spend on a car given a couple different variables. This project was actually very exciting for me and had some great learning opportunities which I will discuss later. Hopefully by discussing my data, you will get an idea of how I am trying to predict how much a person might spend on a car. A model like this obviously has a lot of practical applications and I'm sure there are a lot of inquiries about the data but the purpose of this project is just to develop a good model. Trust me, it got interesting!
 
-## Data Collection
+## Data Collections
 
 My data comes from Kaggle.com and contains about 35,000 rows of data with 20 features per row. Those features were: Date, customer first name, dealer name, car company, model, year, body style, engine, transmission, color, price in thousands (target feature), dealer address, customer address, council area, phone number, gender, annual income, dealer location, dealer region, and dealer number.
 
